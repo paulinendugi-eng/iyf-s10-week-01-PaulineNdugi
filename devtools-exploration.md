@@ -23,7 +23,7 @@ Website 3:https://www.w3schools.com
  2.search form
    -<input type="text">
    -<button type="submit">
-   
+ 3.![image alt](https://github.com/paulinendugi-eng/iyf-s10-week-01-PaulineNdugi/commit/6bb99db1560a0229b23cd518068c9c29df49233b#diff-0ae2f9890546e1df69bb6b4e413ebf4554e4464bb60fd310698c89bc652c9c79.png)
  
    
 
