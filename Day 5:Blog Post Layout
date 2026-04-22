@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Blog Post Page</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>My Tech Blog</h1>
+        <nav>
+            <a href="#">Home</a>t
+            <a href="#">Articles</a>
+            <a href="#">About</a>
+            <a href="#"Contact</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <article>
+
+            <h2>How I started Learning Web Development</h2>
+            <p>Published on: <time datetime="2026-04-22">April 22, 2026</time> Author: Pauline Ndugi </p>
+            <img src="https://via.placeholder.com/800x400"alt="Web development illustration">
+
+            <h3>My First Steps </h3>
+            <p>I started learning web development by understading the basics of HTML.It helped me builed the structureof web pages and understand how websites work.</p>
+            <p>At first,everything looked confusing,but with practice,things became clearer.I learnt how tags,elements,and attributes work together.</p>
+
+            <h3>Learning CSS and Styling</h3>
+            <p>Ater HTML,I moved to CSS to make my pages look attractive.I learned about colors,layouts,spacing and fonts.</p>
+            <p>CSS helped me transform simple pages into beautiful designs.</p>
+
+            <h3>Building Real Projects</h3>
+            <p>The best way to learn was by building real projects like uportfolios and blogs.This helped me understand how everything connects together.</p>
+
+        </article>
+
+        <aside>
+            <h3>Related Posts</h3>
+            <ul>
+                <li><a href="#">Understanding HTML Basics</a></li>
+                <li><a href="#">CSS Tips for Beginners</a></li>
+                <li><a href="#">How to Build Your First Website</a></li>
+            </ul>
+        </aside>
+
+    </main>
+</body>
+</html>
+
+
