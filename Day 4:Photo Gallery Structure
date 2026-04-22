@@ -1,0 +1,39 @@
+<section>
+  <h2>Image Gallery</h2>
+
+  <div>
+
+    <figure>
+        <img src="https://via.placeholder.com/200"alt="Sample Image 1">
+        <figcaption>Sample Image 1</figcaption>
+    </figure>
+
+    <figure>
+        <img src="https://via.placeholder.com/200"alt="Sample Image 2">
+        <figcaption>Sample Image 2</figcaption>
+    </figure>
+
+    <figure>
+        <img src="https://via.placeholder.com/200"alt="Sample Image 3">
+        <figcaption>Sample Image 3</figcaption>
+    </figure>
+
+    <figure>
+        <img src="https://via.placeholder.com/200"alt="Sample Image 4">
+        <figcaption>Sample Image 4</figcaption>
+    </figure>
+
+    <figure>
+        <img src="https://via.placeholder.com/200"alt="Sample Image 5">
+        <figcaption>Sample Image 5</figcaption>
+    </figure>
+
+    <figure>
+        <img src="https://via.placeholder.com/200"alt="Sample Image 6">
+        <figcaption>Sample Image 6</figcaption>
+    </figure>
+
+  </div>
+</section>
+
+
