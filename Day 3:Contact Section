@@ -1,0 +1,22 @@
+<section>
+  <h2>Contact Me</h2>
+
+  <address>
+    <p>Pauline Ndugi</p>
+    <p>Nairobi, Kenya</p>
+
+    <p> Email:<a href="mailto:paulinendugi@gmail.com">paulinendugi@gmail.com</a></p>
+    <p> Phone:<a href="tel:+254700000000">+254 700 000 000</a></p>
+  </address>
+
+  <div>
+    <h3>Connect with me</h3>
+    <ul>
+        <li><a href="https://github.com/PaulineNdugi">GitHub Profile</a></li>
+        <li><a href="https://linkedin.com">LinkedIn Profile</a></li>
+        <li><a href="https://twitter.com">Twitter Profile</a></li>
+    </ul>
+  </div>
+
+</section>
+
