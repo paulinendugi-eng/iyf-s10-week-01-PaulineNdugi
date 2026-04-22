@@ -1,0 +1,60 @@
+<!DOCTYPE html> 
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>My Unique HTML Tags Website</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Creative Web Page</h1>
+        <p>This page demonstrates special HTML tags.</p>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>About HTML</h2>
+            <p><abbr title="HyperTextMarkup Language">HTML</abbr>is the standard language for creating web pages.</p>
+        </section>
+
+        <section>
+            <h2>Highlighted Text</h2>
+            <p>Learning HTML is <mark>very important</mark>for web development.</p>
+        </section>
+
+        <section>
+            <h2>Code Example</h2>
+            <p>Here is a simple HTML code snippet:</p>
+            <code>&lt;h1&gt;Hello World&lt;/h1&gt;</code>
+        </section>
+
+        <section>
+            <h2>Famous Quote</h2>
+                <blockquote>"The best way to create it."</blockquote>
+                <p>-<cite>PETER Drucker</cite></p>
+        </section>
+
+        <section>
+            <h2>Event Time</h2>
+            <p>Assignment deadline:<time datatime="2026-04-30">April 30, 2026</time></p>
+        </section>
+
+        <section>
+            <h2>More Information</h2>
+            <details>
+                <summary>Click to expand</summary>
+                <p>This website is built using semantic and advanced HTML tags to improve structure and accessibility.</p>
+            </details>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My Website</p>
+    </footer>
+
+</body>
+</html>
+
+
